@@ -19,7 +19,7 @@ private:
     Ui::MainWindow *ui;
 
 private:
-
+    void myTest();
 };
 
 #endif // MAINWINDOW_H
